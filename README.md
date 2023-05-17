@@ -17,6 +17,7 @@
     git push origin master
 
 ## BRANCH AÇMA
+    git checkout -b deneme // yeni branch açar. hangi branch üzerinden açılırsa onun kodlarını alır.
     
 
 
