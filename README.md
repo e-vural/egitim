@@ -7,4 +7,18 @@
     git commit -m "your message" //yapılan değişikliklerin locale kaydı. 
     .gitignore file --> repository üzerine göndermek istemediğimiz klasör veya dosyalar.
     git rm -r --cache .idea //gitignore dosyası içine eklenen klasör veya dosyaların cache durumlarını silme
+    git push origin master // yapılan tüm değişiklerin github üzerine gönderilmesi
+
+    
+## EN ÇOK KULLANILAN  KOMUTLAR.
+
+    git add .
+    git commit -m "message"
+    git push origin master
+
+## BRANCH AÇMA
+    
+
+
+
     
